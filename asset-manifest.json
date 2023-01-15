@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react_project_3-notes-app/static/css/main.3d0e6a15.css",
+    "main.js": "/react_project_3-notes-app/static/js/main.dde7eb01.js",
+    "index.html": "/react_project_3-notes-app/index.html",
+    "main.3d0e6a15.css.map": "/react_project_3-notes-app/static/css/main.3d0e6a15.css.map",
+    "main.dde7eb01.js.map": "/react_project_3-notes-app/static/js/main.dde7eb01.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3d0e6a15.css",
+    "static/js/main.dde7eb01.js"
+  ]
+}
